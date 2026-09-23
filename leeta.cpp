@@ -1,4 +1,6 @@
-
+// LeetCode 1685 - Sum of Absolute Differences in a Sorted Array
+// https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+// Approach: prefix sums — O(n) time, O(1) extra space (besides output)
 #include <vector>
 #include <iostream>
 using namespace std;
